@@ -3,5 +3,6 @@
 
 ## Project outline
 
-#### Starting with creating this simple HTML & CSS template, I used Crome Developer Tools to write jQuery statment directly into the browser to manipulate the site eliments.
+#### Created this mini site to practice jQuery selectors. I used Crome Developer Tools to write jQuery statment directly into the browser to manipulate the site eliments.
+#### Uploaded for future use.
 --------
